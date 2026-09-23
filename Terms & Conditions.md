@@ -1,3 +1,9 @@
+---
+title: Terms & Conditions
+permalink: /terms/
+---
+
+
 # **Stepper — Terms & Conditions**
 
 **Effective date:** 23 September 2026 
