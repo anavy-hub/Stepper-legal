@@ -20,8 +20,7 @@ Stepper is an iPhone app for planning and tracking walking routes by step count.
 | **Precise location** (GPS) | Show your position on the map and record where you walk during a walk | On your device. Your walked path is saved with a completed walk. |
 | **Route waypoints** (points you place on the map) | Build, save and reload routes and calculate walking distance | On your device and in your private iCloud (see section 3) |
 | **Motion & fitness data** (pedometer step count) | Count your steps during a walk | On your device. The step total is saved with a completed walk. |
-| **Photos you choose** | Attach up to three photos to a saved walk, and set an optional profile picture | On your device. Walk photos also sync via your private iCloud. Only the photos you select are accessible to the app, through the system photo picker. |
-| **Profile name and picture** (optional) | Personalise your profile | On your device only |
+| **Photos you choose** | Attach up to three photos to a saved walk.  | On your device. Walk photos also sync via your private iCloud. Only the photos you select are accessible to the app, through the system photo picker. |
 | **Settings** (for example km/mi, onboarding completed) | Remember your preferences | On your device only |
 | **Walk statistics and rank** (time, steps, distance, calories estimates, totals) | Show your history and profile rank | Calculated on your device from your walks |
 
