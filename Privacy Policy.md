@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy-policy/
+---
+
 # **Stepper — Privacy Policy**
 
 **Effective date:** 23 September 2026 
